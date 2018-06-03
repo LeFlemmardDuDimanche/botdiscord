@@ -9,7 +9,7 @@ bot.on('ready' , () => {
     console.log("Bot Ready !");
 });
 
-bot.login('NDQ4MTI3MDY5Mjc3Mzg4ODEx.DeclsQ.hzfRea_-uF8C2fVpeddjrVvqRvw');
+bot.login('');
 
 bot.on('message', message => {
      
